@@ -1,0 +1,11 @@
+ipykernel
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+notebook
+jupyterlab
+ipywidgets
+SciencePlots
+PyQt6
